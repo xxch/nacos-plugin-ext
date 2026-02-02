@@ -25,6 +25,7 @@
             <groupId>org.opengauss</groupId>
             <artifactId>opengauss-jdbc</artifactId>
             <version>5.1.0-og</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.alibaba.nacos</groupId>

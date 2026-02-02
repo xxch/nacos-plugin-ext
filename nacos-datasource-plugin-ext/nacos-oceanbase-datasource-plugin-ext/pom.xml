@@ -23,6 +23,7 @@
             <groupId>com.oceanbase</groupId>
             <artifactId>oceanbase-client</artifactId>
             <version>${jdbc.oceanbase.version}</version>
+            <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.alibaba.nacos</groupId>

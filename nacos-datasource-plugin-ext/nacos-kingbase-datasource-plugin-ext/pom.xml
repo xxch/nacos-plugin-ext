@@ -22,7 +22,8 @@
         <dependency>
             <groupId>cn.com.kingbase</groupId>
             <artifactId>kingbase8</artifactId>
-            <version>8.6.0</version>
+            <version>${jdbc.kingbase.version}</version>
+            <scope>provided</scope>
         </dependency>
 
         <dependency>
